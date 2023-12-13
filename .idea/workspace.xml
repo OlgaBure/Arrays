@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04f11cf5-6c96-4c3d-a15d-2ff73ffa8ea1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej28Gallinas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EntradaAarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exam1eva/Ejer1Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exam1eva/Exer2Char.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exam1eva/Exer3Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainOrdenarBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Temario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,19 +30,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/OB2023/PROGRAMACION/BuclesEjercicios",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.15408319",
-    "settings.editor.selected.configurable": "preferences.customizations"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/OB2023/PROGRAMACION/BuclesEjercicios&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.15408319&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.customizations&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\OB2023\PROGRAMACION\INTELIJ\Bucles\src\EjerArray" />
@@ -153,6 +133,7 @@
       <workItem from="1701207327416" duration="10191000" />
       <workItem from="1701351217610" duration="4310000" />
       <workItem from="1702371480411" duration="3237000" />
+      <workItem from="1702397848802" duration="1792000" />
     </task>
     <servers />
   </component>
